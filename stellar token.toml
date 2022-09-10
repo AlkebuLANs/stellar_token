@@ -1,0 +1,18 @@
+[DOCUMENTATION]
+ORG_NAME="Alkebulans Money Ltd"
+ORG_URL="https://alkebulans.money"
+ORG_LOGO="https://alkebulans.money/assets/img/logo.jpg"
+ORG_OFFICIAL_EMAIL="contact@alkebulans.money"
+ORG_TWITTER="AlkebulansM"
+[[CURRENCIES]]
+code="LAN"
+issuer="GC6LQOJEPOBQC2VEUMXO6XN33WGZPYP3MOZ25IEU4NCBRDU43MV4ULAN"
+display_decimals=7
+name="ALKEBULAN"
+desc="LAN is a single digital currency for Africa. It is a cheap, fast coin. It costs less than US$ 0.001 per transaction and takes less than 5 seconds to transact. It is a payment coin, It can be saved for the future or simply traded like Bitcoin."
+conditions="There will only ever be 1,200,000,000 Tokens in existence."
+image="https://alkebulans.money/assets/img/logo.jpg"
+fixed_number=1200000000
+alkebulans.money
+African Money for Africans | Pan-African currency
+AlkebuLANs Money is a Pan African Currency created to increase intra African trade. https://alkebulans.money
